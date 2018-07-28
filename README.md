@@ -1,4 +1,4 @@
-# TwLocation [![python](https://img.shields.io/badge/Python-3.0-green.svg?style=style=flat-square)](https://www.python.org/downloads/) ![version](https://img.shields.io/badge/Build-Final-blue.svg) ![license](https://img.shields.io/badge/License-MIT-orange.svg?style=style=flat-square)
+# Trumpers [![python](https://img.shields.io/badge/Python-3.0-green.svg?style=style=flat-square)](https://www.python.org/downloads/) ![version](https://img.shields.io/badge/Build-Final-blue.svg) ![license](https://img.shields.io/badge/License-MIT-orange.svg?style=style=flat-square)
 
 Python script that unfollows anyone you're following if they follow @realDonaldTrump
 
