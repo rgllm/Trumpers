@@ -12,10 +12,7 @@ auth.set_access_token(OAUTH_TOKEN, OAUTH_TOKEN_SECRET)
 api = tweepy.API(auth, wait_on_rate_limit=True)
 
 # Requires Authentication as of Twitter API v1.1
-try:
-    followers = api.friends_ids(screen_name = YOUR_ACCOUNT_NAME)
-except error as e:
-    print(e)
+followers = api.friends_ids(screen_name = YOUR_ACCOUNT_NAME)
 
 for follower_id in followers:
     print("Analyzing User: ",follower_id)
